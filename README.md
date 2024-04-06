@@ -1,4 +1,51 @@
-Project Overview
+🔍 Project Overview:
+AtliQ Mart, a leading retail giant in southern India, embarked on a journey to analyze the performance of their promotional campaigns during Diwali 2023 and Sankranti 2024. With over 50 stores participating in these massive promotions, the goal was to understand which strategies worked best and where improvements could be made for future endeavors.
+
+💡 Insights Unveiled:
+
+🏙️ City and Store Engagement:
+➡ Top Three Cities with Incremental Revenue:
+1.Bengaluru - 27 million
+2.Chennai - 22 million
+3.Hyderabad - 16 million
+➡ Top Three Cities with % Incremental Revenue:
+1.Madurai - 89%
+2.Bengaluru - 83%
+3.Chennai - 83%
+➡ Top Two Stores in terms of Incremental Revenue:
+1. "STMYS-1" Mysuru - 3729K IR
+2. "STCHE-4" Chennai - 3623K IR
+
+🎉 Campaign and Promotion Schemes Analysis:
+▫ Overall Incremental Revenue Increase: 78% (110 million)
+▫ Incremental Sold Units Increase: 108% (226K)
+▫ Diwali Campaign Incremental Revenue Increase: 96% (79 million)
+▫ Sankranti Campaign Incremental Revenue Increase: 54% (31 million)
+
+➡ Top Two Promotion Schemes in terms of Incremental Revenue:
+1. 500 Cashback - 91 Million
+2. BOGOF(Buy One Get One Free) - 22 Million
+
+➡ Bottom Two Promotion Schemes in terms of Incremental Revenue:
+1. 25% OFF - (minus) 3 million
+2. 50% OFF - (minus) 1 million
+
+📦 Product Category and Performance:
+➡ Top Three Products Category in terms of Incremental Revenue:
+1. "Combo1" - 136% of Incremental Revenue
+2. "Home Appliances" - 83% of Incremental Revenue
+3. "Home Care" - 79% of Incremental Revenue
+
+📈 Understanding Incremental Revenue:
+Incremental Revenue measures the additional income generated from promotional activities compared to the revenue without promotions. It reflects the effectiveness of marketing campaigns in driving sales and overall business growth. For example, if the revenue before promotion is 100 and after promotion is 150, the Incremental Revenue would be 50, indicating a 50% increase.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+problem Statement
 
 
 AtliQ Mart, a leading retail giant in southern India, embarked on a journey to analyze the performance of their promotional campaigns during Diwali 2023 and Sankranti 2024.
